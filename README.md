@@ -18,7 +18,7 @@ Fisher and Thompson 6x6 instance, alternate name (mt06)\
 2 5 3 4 5 8 0 9 1 1 4 7\
 1 5 0 5 2 5 3 3 4 8 5 9\
 2 9 1 3 4 5 5 4 0 3 3 1\
-1 3 3 3 5 9 0 10 4 4 2 1\
+1 3 3 3 5 9 0 10 4 4 2 1  
 
 In the above table, 6 6 means the problem has a 6 x 6 dimension. In the first row you see 12 numbers. Each
 pair of two numbers represents machine process order and processing time respectively, for each job on its
