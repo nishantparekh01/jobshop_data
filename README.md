@@ -1,4 +1,4 @@
-This repository contains commonly used benchmark instances for the Job Shop Scheduling Problem (JSSP).\
+This repository contains commonly used benchmark instances for the Job Shop Scheduling Problem (JSSP).  
 
 Included instances currently include:\
 \
